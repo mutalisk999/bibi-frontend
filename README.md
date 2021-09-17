@@ -3,15 +3,15 @@ Bibi 电商全栈解决方案
 
 配合以下项目使用:
 
-> [bibi server](https://github.com/seasonstar/bibi) 服务端项目
+> [bibi server](https://github.com/mutalisk999/bibi) 服务端项目
 
-> [bibi-ionic](https://github.com/seasonstar/bibi-ionic) mobile app源码
+> [bibi-ionic](https://github.com/mutalisk999/bibi-ionic) mobile app源码
 
 ----------------------------
 
 ### Quickstart
 
-1. 把本项目下载到本地`git clone https://github.com/seasonstar/bibi-frontend.git`
+1. 把本项目下载到本地`git clone https://github.com/mutalisk999/bibi-frontend.git`
 2. 进入项目根目录
 3. 执行 `npm install` 安装依赖
 4. 执行 `gulp dev` 进入开发环境，浏览器会自动打开，监控代码改变并自动更新
